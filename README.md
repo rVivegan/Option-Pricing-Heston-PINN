@@ -1,4 +1,4 @@
-# Simple PINN-Based Heston Option Pricing
+# PINN based Heston Pricing model solver and Monte Carlo benchmarking
 
 This project demonstrates a simple Physics-Informed Neural Network (PINN) approach to price European call options under the Heston stochastic volatility model.
 
@@ -65,4 +65,4 @@ Final metrics include MAE, RMSE, and $$R^2$$, with visual comparison showing mod
 
 ---
 
-This notebook keeps things basic—no Greek calculation or parameteric solver features—but the structure can be extended for more advanced financial deep learning research.
+This notebook keeps things basic but the structure can be extended for more advanced financial deep learning research.
